@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	form {
+
+	  margin-right: 80px;
+
+		}
+
+
+	fieldset {
+			  font-size:12px;
+			  padding:20px;
+			  width:1700px;
+			  line-height:7.9;
+			  }
+
+	legend {
+			background-color: #fff;
+			color: #000;
+			padding: 0.00px 0.5px;
+			height :1.0
+
+
+		}
+
+
+
+
+
+
+
+	</style>
+</head>
+
+<body >
+	<form>
+		<fieldset>
+			<legend><h2 style="font-size: 20px;">SKIM LITERATURE</h2></legend>
+
+
+
+    <div>
+        {{ prediction_texts | safe }}
+    </div>
+		</fieldset>
+	</form>
+</body>
+</html>
