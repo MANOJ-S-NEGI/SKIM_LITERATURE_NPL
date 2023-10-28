@@ -29,3 +29,4 @@ output: predict page
 ![Screenshot 2023-10-27 174551](https://github.com/MANOJ-S-NEGI/SKIM_LITERATURE_NPL/assets/99602627/0017baad-920d-4c77-b396-686a48d88069)
 
 ---
+check the demo: [Skim-abstract/literature](https://huggingface.co/spaces/msn-enginenova21/skim-abstract)
